@@ -388,6 +388,7 @@ header .banner-content > p {
   position: absolute;
   padding: 14px 30px;
   color: #fff;
+  cursor: pointer;
   font-size: 1rem;
   font-weight: 500;
   border: none;
